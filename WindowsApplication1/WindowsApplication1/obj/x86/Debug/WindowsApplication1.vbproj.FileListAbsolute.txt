@@ -1,0 +1,9 @@
+D:\GITHUB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\GITHUB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\GITHUB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\GITHUB\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\GITHUB\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\GITHUB\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\GITHUB\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\GITHUB\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\GITHUB\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
