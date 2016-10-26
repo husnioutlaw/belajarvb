@@ -10,3 +10,6 @@ D:\GITHUB\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplicati
 D:\GITHUB\a\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
 D:\GITHUB\a\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
 D:\GITHUB\a\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Hensh\Desktop\nyahusni\belajarvb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Hensh\Desktop\nyahusni\belajarvb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Hensh\Desktop\nyahusni\belajarvb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
